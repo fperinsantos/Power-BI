@@ -1,37 +1,20 @@
-# 📊 Dashboard de Metas de Vendas - Power BI
+# 📊 Projeto de Transformação e Integração de Dados Corporativos
 
-Este repositório contém um relatório desenvolvido no Power BI com foco na análise do desempenho de vendas em relação às metas estabelecidas.
+## 📌 Descrição
 
-O dashboard apresenta indicadores, gráficos interativos e filtros que auxiliam na visualização dos resultados ao longo dos períodos.
+Este projeto tem como objetivo realizar o processo de limpeza, transformação e integração de dados referentes a colaboradores, departamentos e projetos, visando preparar as informações para análises futuras em Power BI.
 
----
-
-## 🎯 Objetivo
-
-Fornecer uma visão geral das metas de vendas, permitindo:
-
-- Acompanhar o desempenho anual;
-- Comparar valores realizados e metas;
-- Analisar vendas por categoria;
-- Filtrar informações por trimestre.
+O trabalho contempla a padronização de dados, tratamento de valores ausentes, criação de relacionamentos e consolidação das informações em um formato adequado para modelagem dimensional.
 
 ---
 
-## 🧩 Recursos Utilizados
+## 🎯 Objetivos
 
-- Power BI Desktop  
-- Power Query para tratamento de dados  
-- Segmentadores (Slicers)  
-- Indicadores (KPIs)  
-- Gráficos interativos  
-- Botões de navegação
+- Garantir consistência nos tipos de dados
+- Corrigir valores monetários
+- Tratar valores nulos
+- Identificar gerentes e departamentos sem responsáveis
+- Integrar dados de colaboradores e departamentos
+- Criar estrutura compatível com modelo estrela
+- Otimizar dados para visualização em relatórios
 
----
-
-## 📈 Principais Visualizações
-
-- Gráfico de dispersão por distrito  
-- Medidor de vendas anuais  
-- Gráfico de rosca (Meta x Realizado)  
-- Gráfico de barras por categoria  
-- Segmentador por trimestre
