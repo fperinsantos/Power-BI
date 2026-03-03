@@ -118,14 +118,6 @@ A página foi estruturada como uma **apresentação ao cliente**, priorizando cl
 
 ---
 
-## 📸 Preview do Dashboard
-
-> Veja abaixo uma prévia do relatório desenvolvido:
-
-![Dashboard Preview](./imagens/dashboard_preview.png)
-
----
-
 ## 👤 Autor
 
 Projeto desenvolvido como parte do curso de Business Intelligence com Power BI, com foco em análise de dados, visualização e apresentação estratégica.
